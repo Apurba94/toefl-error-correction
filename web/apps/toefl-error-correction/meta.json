@@ -1,0 +1,11 @@
+{
+ "name": "toefl-error-correction",
+ "title": "Error Correction",
+ "exam": "TOEFL",
+ "area": "TOEFL Speaking and Writing",
+ "desc": "Find the mistake in a sentence and learn the rule, for cleaner writing under time pressure.",
+ "content": [
+  "errors.json"
+ ],
+ "n": 85
+}
